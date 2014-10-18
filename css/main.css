@@ -150,26 +150,7 @@ fieldset[disabled] .btn-xl.active {
   background-size: contain;
   background-repeat: no-repeat;
   width: 100px;
-}
-
-@media (min-width: 992px) {
-  .navbar-default .navbar-brand {
-    background-image: url("../img/logos/gfc-logo-large.jpg");
-    width: 320px;
-  }
-}
-
-@media (max-width: 692px) {
-  .navbar-default .navbar-brand {
-    height: 40px;
-    margin: 5px;
-  }
-}
-.navbar-default .navbar-brand:hover,
-.navbar-default .navbar-brand:focus,
-.navbar-default .navbar-brand:active,
-.navbar-default .navbar-brand.active {
-  color: #6e548a;
+  height: 50px;
 }
 .navbar-default .navbar-collapse {
   border-color: rgba(255, 255, 255, 0.02);
@@ -207,7 +188,6 @@ fieldset[disabled] .btn-xl.active {
   color: white;
   background-color: #6e548a;
 }
-
 @media (min-width: 768px) {
   .navbar-default {
     background-color: transparent;
@@ -221,7 +201,6 @@ fieldset[disabled] .btn-xl.active {
     -webkit-transition: all 0.3s;
     -moz-transition: all 0.3s;
     transition: all 0.3s;
-    height: 50px;
   }
   .navbar-default .navbar-nav > .active > a {
     border-radius: 3px;
@@ -232,6 +211,18 @@ fieldset[disabled] .btn-xl.active {
   }
   .navbar-default.navbar-shrink .navbar-brand {
     font-size: 1.5em;
+  }
+}
+@media (min-width: 992px) {
+  .navbar-default .navbar-brand {
+    background-image: url("../img/logos/gfc-logo-large.jpg");
+    width: 320px;
+  }
+}
+@media (max-width: 768px) {
+  .navbar-default .navbar-brand {
+    height: 40px;
+    margin: 5px;
   }
 }
 header {
@@ -268,7 +259,7 @@ header .intro-text .intro-heading {
 @media (min-width: 768px) {
   header .intro-text {
     padding-top: 300px;
-    padding-bottom: 200px;
+    padding-bottom: 320px;
   }
   header .intro-text .intro-lead-in {
     font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -320,6 +311,8 @@ section h3.section-subheading {
   position: relative;
   max-width: 400px;
   margin: 0 auto;
+  max-height: 240px;
+  overflow: hidden;
 }
 #portfolio .portfolio-item .portfolio-link .portfolio-hover {
   background: rgba(135, 108, 165, 0.9);
