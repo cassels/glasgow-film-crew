@@ -146,11 +146,12 @@ fieldset[disabled] .btn-xl.active {
   border-color: transparent;
 }
 .navbar-default .navbar-brand {
-  background-image: url("../img/logos/gfc-logo-small.jpg");
+  background-image: url("../img/logos/gfc-logo-large.jpg");
   background-size: contain;
   background-repeat: no-repeat;
-  width: 100px;
-  height: 50px;
+  width: 255px;
+  height: 40px;
+  margin: 5px;
 }
 .navbar-default .navbar-collapse {
   border-color: rgba(255, 255, 255, 0.02);
@@ -198,6 +199,9 @@ fieldset[disabled] .btn-xl.active {
     border: none;
   }
   .navbar-default .navbar-brand {
+    background-image: url("../img/logos/gfc-logo-small.jpg");
+    height: 50px;
+    margin: 0;
     -webkit-transition: all 0.3s;
     -moz-transition: all 0.3s;
     transition: all 0.3s;
@@ -217,12 +221,6 @@ fieldset[disabled] .btn-xl.active {
   .navbar-default .navbar-brand {
     background-image: url("../img/logos/gfc-logo-large.jpg");
     width: 320px;
-  }
-}
-@media (max-width: 768px) {
-  .navbar-default .navbar-brand {
-    height: 40px;
-    margin: 5px;
   }
 }
 header {

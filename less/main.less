@@ -84,11 +84,12 @@ h1, h2, h3, h4, h5, h6 {
 	background-color: @gray-darkest;
 	border-color: transparent;
 	.navbar-brand {
-		background-image: url("../img/logos/gfc-logo-small.jpg");
+		background-image: url("../img/logos/gfc-logo-large.jpg");
         background-size: contain;
         background-repeat: no-repeat;
-    	width: 100px;
-        height: 50px;
+    	width: 255px;
+        height: 40px;
+        margin: 5px;
 	}
 	.navbar-collapse {
 		border-color: fade(white, 2%);
@@ -140,6 +141,9 @@ h1, h2, h3, h4, h5, h6 {
         transition: padding 0.3s, background-color 0.3s;
         border: none;
 	    .navbar-brand {
+	        background-image: url("../img/logos/gfc-logo-small.jpg");
+	        height: 50px;
+	        margin: 0;
 	        -webkit-transition: all 0.3s;
 	        -moz-transition: all 0.3s;
 	        transition: all 0.3s;
@@ -161,13 +165,6 @@ h1, h2, h3, h4, h5, h6 {
   .navbar-default .navbar-brand {
     background-image: url("../img/logos/gfc-logo-large.jpg");
     width: 320px;
-  }
-}
-
-@media (max-width: 768px) {
-  .navbar-default .navbar-brand {
-    height: 40px;
-    margin: 5px;
   }
 }
 
