@@ -211,10 +211,10 @@ fieldset[disabled] .btn-xl.active {
 @media (min-width: 768px) {
   .navbar-default {
     background-color: transparent;
-    padding: 25px 0;
-    -webkit-transition: padding 0.3s;
-    -moz-transition: padding 0.3s;
-    transition: padding 0.3s;
+    padding: 10px 0;
+    -webkit-transition: padding 0.3s, background-color 0.3s;
+    -moz-transition: padding 0.3s, background-color 0.3s;
+    transition: padding 0.3s, background-color 0.3s;
     border: none;
   }
   .navbar-default .navbar-brand {
@@ -550,6 +550,7 @@ section h3.section-subheading {
 .team-member img {
   margin: 0 auto;
   border: 7px solid white;
+  width: 240px;
 }
 .team-member h4 {
   margin-top: 25px;
