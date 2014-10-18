@@ -146,8 +146,24 @@ fieldset[disabled] .btn-xl.active {
   border-color: transparent;
 }
 .navbar-default .navbar-brand {
-  color: #876ca5;
-  font-family: "Kaushan Script", "Helvetica Neue", Helvetica, Arial, cursive;
+  background-image: url("../img/logos/gfc-logo-small.jpg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 100px;
+}
+
+@media (min-width: 992px) {
+  .navbar-default .navbar-brand {
+    background-image: url("../img/logos/gfc-logo-large.jpg");
+    width: 320px;
+  }
+}
+
+@media (max-width: 692px) {
+  .navbar-default .navbar-brand {
+    height: 40px;
+    margin: 5px;
+  }
 }
 .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-brand:focus,
@@ -191,6 +207,7 @@ fieldset[disabled] .btn-xl.active {
   color: white;
   background-color: #6e548a;
 }
+
 @media (min-width: 768px) {
   .navbar-default {
     background-color: transparent;
@@ -201,10 +218,10 @@ fieldset[disabled] .btn-xl.active {
     border: none;
   }
   .navbar-default .navbar-brand {
-    font-size: 2em;
     -webkit-transition: all 0.3s;
     -moz-transition: all 0.3s;
     transition: all 0.3s;
+    height: 50px;
   }
   .navbar-default .navbar-nav > .active > a {
     border-radius: 3px;
