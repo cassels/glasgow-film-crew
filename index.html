@@ -344,9 +344,9 @@
 								{{ project.synopsis }}
 							</div>
                             <ul class="list-inline">
-                                <li><strong>Date:</strong> {{ project.date }}</li>
-                                <li><strong>Type:</strong> {{ project.type }}</li>                     
-                                <li><strong>Status:</strong> {{ project.status }}</li>
+                                {% if project.date %}<li><strong>Date:</strong> {{ project.date }}</li>{% endif %}
+                                {% if project.type %}<li><strong>Type:</strong> {{ project.type }}</li>                     {% endif %}
+                                {% if project.status %}<li><strong>Status:</strong> {{ project.status }}</li>{% endif %}
                             </ul>
                             <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
                         </div>
