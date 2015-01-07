@@ -1,0 +1,65 @@
+###########################################################
+# This is the Hosts YAML file.
+# YAML is a human friendly data serialisation standard for all programming languages.
+#
+# NOTE: Any line that begins with '#' is known as a comment and will be ignored
+#
+# This file includes a list of all the hosts listed on the site. 
+# Structure:
+# 
+# - title: Project Title
+#   image: /path/to/image.jpg (360px * 240px is recommended)
+#   type: Short Film
+#   date: Mar 2013
+#   status: Post Production
+#   synopsis: XYZ
+#   youtube: e.g. http://www.youtube.com/embed/VGhMc-gZb8g
+#
+# 1. Each new entry begins with '- '
+# 2. Each line of the entry has a 'key' and a 'value' separated by a colon ':'
+#       'title' is the key, 'Project Title' is the value
+# 3. You can leave any key out and it won't show in the final page. 
+#    I.e. removing 'status' from an entry will remove status from the page
+###########################################################
+- title: The Man Who Kept Hearing His Name Getting Called Out
+  image: /img/portfolio/Portfoloio-Tomahawk.jpg
+  type: Short Film
+  date: Mar 2013
+  synopsis: XYZ
+  youtube: http://www.youtube.com/embed/VGhMc-gZb8g
+  
+- title: Should I still love you
+  image: /img/portfolio/golden-preview.png
+  type: Music Video 
+  
+- title: Rainbow Cups
+  image: /img/portfolio/golden-preview.png
+  type: Short Film  
+  
+- title: Team-up
+  image: /img/portfolio/golden-preview.png
+  type: Short Film
+  status: Post Production
+  
+- title: Moonwalker
+  image: /img/portfolio/golden-preview.png
+  type: Short Film
+  
+- title: Suicide Club
+  image: /img/portfolio/golden-preview.png
+  type: 48 Hour Film Festival - 2013
+  
+- title: Nigel, Son of Devil
+  image: /img/portfolio/golden-preview.png
+  type: Short Film
+  status: Post Production
+  
+- title: The Ballad of Dusty Beaumont
+  image: /img/portfolio/golden-preview.png
+  type: 48 Hour Film Festival - 2014
+  
+- title: Reflections of a Private Eye
+  image: /img/portfolio/golden-preview.png
+  type: Short Film
+  status: Pre Production
+  

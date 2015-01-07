@@ -1,0 +1,53 @@
+###########################################################
+# This is the Hosts YAML file.
+# YAML is a human friendly data serialisation standard for all programming languages.
+#
+# NOTE: Any line that begins with '#' is known as a comment and will be ignored
+#
+# This file includes a list of all the hosts listed on the site. 
+# Structure:
+# 
+# - date: A long long time ago
+#   title: Our Humble Beginnings
+#   image: /path/to/image.jpg (200px * 200px is recommended)
+#   description: XYZ
+#
+# 1. Each new entry begins with '- '
+# 2. Each line of the entry has a 'key' and a 'value' separated by a colon ':'
+#       'title' is the key, 'Our Humble Beginnings' is the value
+###########################################################
+
+- date: A long long time ago
+  title: Our Humble Beginnings
+  image: /img/about/eiffel.jpg
+  description: Soul searching in a foreign land, our founder, Ryan Pasi, stumbled across the Paris Film Crew - a meetup group designed to inspire collaboration. Excited by the idea, he stole the concept, packed his bags and headed home for fame and fortune... Unfortunately his home is Glasgow, where fame and fortune are few and far between.
+
+- date: Feb 2013
+  title: The GFC is Born
+  image: /img/about/crest.jpg
+  description: Inspired by the French, Ryan created the Glasgow Film Crew as a way to meet similarly minded people and gain more experience producing creative content - purely a selfish motive that has since blossomed into something incredible.
+  
+- date: Mar 2013
+  title: Our First Film
+  image: /img/about/camera.jpg
+  description: Our first film was complete within a month of creation entitled "The Man Who Kept Hearing His Name Getting Called Out". A short Mockumentary written by Paddy Kondracki and Directed by Ian Hendry about, well, you can probably guess.
+  
+- date: Oct 2013
+  title: Awards Time
+  image: /img/about/oscars.jpg
+  description: We entered into the Glasgow 48 hour film festival for the first time - a contest that requires teams to write, shoot, and edit a short film within 48 hours. We were given the genre DARK COMEDY and received every available award for writing.
+  
+- date: Feb 2014
+  title: We turn one!
+  image: img/about/sparkler.jpg
+  description: The largest social gathering of filmakers in Glasgow met up to celebrate our first birthday. The crew's interest on meetup.com grew to over 250 people.
+  
+- date: Oct 2014
+  title: Musical Time
+  image: /img/about/guitar.jpg
+  description: It's the 48 hour film festival time again and this time, we were given the much dreaded genre - MUSICAL. In most cases the musical genre is swapped for a 'wild card' but not us - With the GFC's wealth of talented musicians, we pulled off an incredibly ambitious musical performance and walked away with an award once again.
+  
+  
+  
+  
+  
