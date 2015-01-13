@@ -34,8 +34,9 @@
   youtube: https://www.youtube.com/embed/I5_DcyoNwpU
   
 - title: Rainbow Cups
-  image: /img/portfolio/golden-preview.png
+  image: /img/portfolio/Portfolio-RC.png
   type: Short Film  
+  synopsis: A small group of forest scavengers make camp in a dangerous world to take stock of supplies. To pass the time, two of the group sit down to have a game of Rainbow Cups, an old and mysterious game of bluff. 
   
 - title: Team-up
   image: /img/portfolio/Portfolio-Teamup.png
@@ -55,14 +56,17 @@
   synopsis: The GFC entered the Glasgow 48 Hour Film Project in 2013. The competition is a great way to put people’s abilities to the test and everyone was very proud with what was achieved in just 48 hours. For the competition, there is a prop, line of dialogue and character that each team must incorporate into their film. Then each team picks a genre at random. The GFC pulled ‘Dark Comedy’. We were awarded ‘Best Writing’  and ‘Best use of line of dialogue’ 
   youtube: https://www.youtube.com/embed/vwruTltrkYI
   
-- title: Nigel, Son of Devil
-  image: /img/portfolio/golden-preview.png
+- title: The Ballad of Dusty Beaumont
+  image: /img/portfolio/Portfolio-Ballad.png
+  type: 48 Hour Film Festival - 2014
+  synopsis: Completed in under 48 hours as part of the '48 Hour Film Project' - Glasgow 2014. Genre - Musical/Western. Line of Dialogue - It hasn't done that before. Prop - An empty jar. Character - Dusty Beaumont - a retired entertainer
+  youtube: https://www.youtube.com/embed/rLoKyPOCA9o
+  
+- title: Tanner Park
+  image: /img/portfolio/Portfolio-TannerPark.png
   type: Short Film
   status: Post Production
-  
-- title: The Ballad of Dusty Beaumont
-  image: /img/portfolio/golden-preview.png
-  type: 48 Hour Film Festival - 2014
+  synopsis: COMING SOON - A man with deep set mental issues attempts controversial new therapy to change his memories by reliving them in his head.
   
 - title: Reflections of a Private Eye
   image: /img/portfolio/golden-preview.png
