@@ -25,24 +25,8 @@
   image: /img/portfolio/Portfoloio-Tomahawk.jpg
   type: Short Film
   date: Mar 2013
-  synopsis: XYZ
+  synopsis: A man suffers from a rare condition where he keeps hearing his name getting called out. The Glasgow Film Crew follows his story.
   youtube: http://www.youtube.com/embed/VGhMc-gZb8g
-  
-- title: Should I still love you
-  image: /img/portfolio/Portfolio-EwanManson.jpg
-  type: Music Video 
-  youtube: https://www.youtube.com/embed/I5_DcyoNwpU
-  
-- title: Rainbow Cups
-  image: /img/portfolio/Portfolio-RC.png
-  type: Short Film  
-  synopsis: A small group of forest scavengers make camp in a dangerous world to take stock of supplies. To pass the time, two of the group sit down to have a game of Rainbow Cups, an old and mysterious game of bluff. 
-  
-- title: Team-up
-  image: /img/portfolio/Portfolio-Teamup.png
-  type: Short Film
-  status: Post Production
-  synopsis: Team-up begins with two men meeting in a pub. One reveals he is an alien working on teleportation technology, and the other reveals he is a superhero. They agree to team up, and begin recruiting others, but are met with distrust and disappointment. Sometimes it’s funny, sometimes it’s sad. If superheroes were real, would they team-up?
   
 - title: Moonwalker - Adventures of a Midnight Mountaineer
   image: /img/portfolio/Portfolio-Moonwalker.jpg
@@ -50,17 +34,33 @@
   youtube: https://www.youtube.com/embed/zAA23SsxaR4
   synopsis: Back Page Press commissioned the GFC to make a video to accompany the release of Moonwalker - Adventures of a Midnight Mountaineer by Alan Rowan. Alan chose to deal with his post-work insomnia by driving to the highlands and climbing munros in the pitch black to reach the summit for the sunrise. Setting off at 2AM, the GFC made the trek with Alan to film the walk and the spectacular sunrise at the summit. Original Music by Luciano Rossi 
   
+- title: Rainbow Cups
+  image: /img/portfolio/Portfolio-RC.png
+  type: Short Film  
+  synopsis: A small group of forest scavengers make camp in a dangerous world to take stock of supplies. To pass the time, two of the group sit down to have a game of Rainbow Cups, an old and mysterious game of bluff. 
+  
 - title: Suicide Club
   image: /img/portfolio/Portfolio-Suicide-club.png
   type: 48 Hour Film Festival - 2013
   synopsis: The GFC entered the Glasgow 48 Hour Film Project in 2013. The competition is a great way to put people’s abilities to the test and everyone was very proud with what was achieved in just 48 hours. For the competition, there is a prop, line of dialogue and character that each team must incorporate into their film. Then each team picks a genre at random. The GFC pulled ‘Dark Comedy’. We were awarded ‘Best Writing’  and ‘Best use of line of dialogue’ 
   youtube: https://www.youtube.com/embed/vwruTltrkYI
   
+  - title: Should I still love you
+  image: /img/portfolio/Portfolio-EwanManson.jpg
+  type: Music Video 
+  youtube: https://www.youtube.com/embed/I5_DcyoNwpU
+  
 - title: The Ballad of Dusty Beaumont
   image: /img/portfolio/Portfolio-Ballad.png
   type: 48 Hour Film Festival - 2014
   synopsis: Completed in under 48 hours as part of the '48 Hour Film Project' - Glasgow 2014. Genre - Musical/Western. Line of Dialogue - It hasn't done that before. Prop - An empty jar. Character - Dusty Beaumont - a retired entertainer
   youtube: https://www.youtube.com/embed/rLoKyPOCA9o
+
+  - title: Team-up
+  image: /img/portfolio/Portfolio-Teamup.png
+  type: Short Film
+  status: Post Production
+  synopsis: Team-up begins with two men meeting in a pub. One reveals he is an alien working on teleportation technology, and the other reveals he is a superhero. They agree to team up, and begin recruiting others, but are met with distrust and disappointment. Sometimes it’s funny, sometimes it’s sad. If superheroes were real, would they team-up?
   
 - title: Tanner Park
   image: /img/portfolio/Portfolio-TannerPark.png
